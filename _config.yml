@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.798302181739765
+  lightness: 0.3552675556283986
+  rhythmicContrast: 0.8004801090791094
+  saturation: 0.23611514906189057
+cta: {}
+layout_spectrum: 0.594594
+name: Keoni
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.25
